@@ -1,3 +1,4 @@
+//110419044楊琬婷 110413013黃筱涵
 const int analogPin = A0;   // the pin that the potentiometer is attached to
 const int ledCount = 10;    // the number of LEDs in the bar graph
 int ledPins[] = {
